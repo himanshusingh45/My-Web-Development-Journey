@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/foundations-bg.png');
+    height: 120vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.bottom-container {
+    background-color: #ffffff;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 30px;
+}
+
+.bottom-heading {
+    font-family: 'Roboto';
+    font-size: 30px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.bottom-description {
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.image-container {
+    padding: 10px;
+    text-align: center;
+    border-color: #cbd2d9;
+    margin: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    height: 100px;
+    width: 130px;
+}
+
+.language-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.language-name {
+    color: #7b8794;
+    font-family: 'Roboto';
+    font-size: 20px;
+}

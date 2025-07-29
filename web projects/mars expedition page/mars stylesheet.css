@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-container {
+    background-image: url('https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/niat_static/niat_bootstrap/bootstrap_flex_class_names_1_v1_bg_1.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.mars-container {
+    background-color: #0000ffb3;
+    text-align: right;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.mars-heading {
+    font-family: 'Monoton';
+    font-size: 35px;
+    text-decoration: ;
+    color: #ffa500;
+}
+
+.launch-button {
+    font-family: 'Caveat';
+    color: white;
+}
+
+.mars-paragraph {
+    font-family: 'Caveat';
+    font-size: 20px;
+    color: white;
+}
