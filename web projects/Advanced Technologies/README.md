@@ -1,37 +1,46 @@
-Advanced Technologies Landing Page
-A simple, responsive landing page showcasing "Advanced Technologies" built with HTML and CSS.
+# 🚀 Advanced Technologies Landing Page  
 
-<img src="https://github.com/himanshusingh45/My-Web-Development-Journey/blob/0f26084b7cf0a5b23ea7be4a1e875876025d9cf3/web%20projects/Advanced%20Technologies/advanced-technologies-v1.png" alt="screenshot of Advanced Technologies Page" />
+A **simple, responsive landing page** showcasing **"Advanced Technologies"** built with **HTML** and **CSS**.
 
-Overview
-This is a single-page website that serves as a landing page for "Advanced Technologies". The design is a clean, modern layout with a background image and a content area at the bottom. It includes a main heading, a descriptive paragraph, and two call-to-action buttons. The page is built to be responsive, adapting to different screen sizes.
+---
 
-Technologies Used
-HTML5: The page structure is built using standard HTML5 tags.
+## 🖼️ Screenshot  
 
-CSS3: Custom styles are applied to elements to control typography, colors, layout, and button appearance.
+![Advanced Technologies Screenshot](./advanced-technologies-v1.png)
 
-Bootstrap 4.5: The project leverages Bootstrap's responsive utility classes (d-flex, flex-column, justify-content-end, flex-row, justify-content-center) to manage the layout.
+---
 
-Google Fonts: The fonts "Bree Serif" and "Roboto" are imported to provide a distinct and readable typography.
+## 📖 Overview  
 
-Key Features
-Responsive Layout: The design is optimized for both desktop and mobile devices.
+This is a **single-page website** that serves as a **landing page for "Advanced Technologies"**.  
+The design features a **clean, modern layout** with:
+- A **background image**
+- A **content area at the bottom**
+- **Two call-to-action buttons**
 
-Custom Styling: The project uses a dedicated CSS file (advanced technologies.css) for unique styling.
+It’s fully **responsive**, adapting beautifully to different screen sizes.
 
-Clear Call-to-Action: The "Learn More" and "Save Draft" buttons are styled to stand out and guide user interaction.
+---
 
-How to Run
-Clone the repository to your local machine.
+## 🛠️ Technologies Used  
 
-git clone [your-repository-url]
+- **HTML5** – Page structure  
+- **CSS3** – Custom styles for typography, colors, and layout  
+- **Bootstrap 4.5** – For responsive grid and layout utilities  
+- **Google Fonts** – *Bree Serif* and *Roboto* for readable, modern typography  
 
-Navigate to the project folder.
+---
 
-cd advanced-technologies
+## ✨ Key Features  
 
-Open the advanced technologies.html file in your preferred web browser.
+- **📱 Responsive Layout** – Optimized for both desktop and mobile  
+- **🎨 Custom Styling** – A dedicated `advanced-technologies.css` file for unique visuals  
+- **👉 Clear Call-to-Action** – Buttons: **Learn More** & **Save Draft**  
 
-License
-This project is open-source and available under the MIT License.
+---
+
+## 🚀 How to Run  
+
+1. **Clone the repository**  
+   ```bash
+   git clone [your-repository-url]
