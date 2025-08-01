@@ -44,3 +44,11 @@ It’s fully **responsive**, adapting beautifully to different screen sizes.
 1. **Clone the repository**  
    ```bash
    git clone [https://github.com/himanshusingh45/My-Web-Development-Journey/tree/74b3b012b898d037993320cdfd062ac6bd3177e2]
+
+2. **Navigate to the project folder**  
+   ```bash
+   cd project-name
+   ```
+
+3. **Open in a browser**  
+   Open the main `.html` file in your favorite browser (just double‑click it or right‑click → open with browser).
