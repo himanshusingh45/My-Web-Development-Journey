@@ -6,7 +6,7 @@ A **simple, informative, and responsive web page** about COVID‑19, built using
 
 ## 🖼️ Screenshot  
 
-![COVID‑19 Page Screenshot](web projects/Covid 19 page/covid-v1.png)
+![COVID‑19 Page Screenshot](./covid-v1.png)
 
 ---
 
