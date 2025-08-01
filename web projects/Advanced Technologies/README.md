@@ -47,7 +47,7 @@ It’s fully **responsive**, adapting beautifully to different screen sizes.
 
 2. **Navigate to the project folder**  
    ```bash
-   cd project-name
+   cd Advanced_Technologies
    ```
 
 3. **Open in a browser**  
