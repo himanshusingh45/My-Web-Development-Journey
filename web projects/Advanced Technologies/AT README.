@@ -1,7 +1,7 @@
 Advanced Technologies Landing Page
 A simple, responsive landing page showcasing "Advanced Technologies" built with HTML and CSS.
 
-![image alt](https://github.com/himanshusingh45/My-Web-Development-Journey/raw/3f5c351f1ae79754d92570f54e523ea67346ef6d/web%20projects/Advanced%20Technologies/advanced-technologies-v1.png)
+![Advanced Technologies Screenshot](./advanced-technologies-v1.png)
 
 Overview
 This is a single-page website that serves as a landing page for "Advanced Technologies". The design is a clean, modern layout with a background image and a content area at the bottom. It includes a main heading, a descriptive paragraph, and two call-to-action buttons. The page is built to be responsive, adapting to different screen sizes.
