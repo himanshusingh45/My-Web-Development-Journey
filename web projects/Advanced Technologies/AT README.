@@ -1,0 +1,37 @@
+Advanced Technologies Landing Page
+A simple, responsive landing page showcasing "Advanced Technologies" built with HTML and CSS.
+
+
+
+Overview
+This is a single-page website that serves as a landing page for "Advanced Technologies". The design is a clean, modern layout with a background image and a content area at the bottom. It includes a main heading, a descriptive paragraph, and two call-to-action buttons. The page is built to be responsive, adapting to different screen sizes.
+
+Technologies Used
+HTML5: The page structure is built using standard HTML5 tags.
+
+CSS3: Custom styles are applied to elements to control typography, colors, layout, and button appearance.
+
+Bootstrap 4.5: The project leverages Bootstrap's responsive utility classes (d-flex, flex-column, justify-content-end, flex-row, justify-content-center) to manage the layout.
+
+Google Fonts: The fonts "Bree Serif" and "Roboto" are imported to provide a distinct and readable typography.
+
+Key Features
+Responsive Layout: The design is optimized for both desktop and mobile devices.
+
+Custom Styling: The project uses a dedicated CSS file (advanced technologies.css) for unique styling.
+
+Clear Call-to-Action: The "Learn More" and "Save Draft" buttons are styled to stand out and guide user interaction.
+
+How to Run
+Clone the repository to your local machine.
+
+git clone [your-repository-url]
+
+Navigate to the project folder.
+
+cd advanced-technologies
+
+Open the advanced technologies.html file in your preferred web browser.
+
+License
+This project is open-source and available under the MIT License.
