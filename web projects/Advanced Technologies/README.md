@@ -43,4 +43,4 @@ It’s fully **responsive**, adapting beautifully to different screen sizes.
 
 1. **Clone the repository**  
    ```bash
-   git clone [your-repository-url]
+   git clone [https://github.com/himanshusingh45/My-Web-Development-Journey/tree/74b3b012b898d037993320cdfd062ac6bd3177e2]
