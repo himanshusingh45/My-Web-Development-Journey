@@ -2,7 +2,6 @@
 A simple, responsive page for a coding practice exercise, built using HTML, CSS, and Bootstrap.
 
 🖼️ Screenshot  
-
 ![Coding Practice Screenshot](./coding-v1.png)
 
 📖 Overview  
